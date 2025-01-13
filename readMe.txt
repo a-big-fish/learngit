@@ -5,4 +5,4 @@ that's nice,sorry
 i write something again!
 add!!!!
 again!
-Creating a new branch is quick
+Creating a new branch is quick & simple
