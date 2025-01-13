@@ -6,4 +6,4 @@ i write something again!
 add!!!!
 again!
 Creating a new branch is quick and simple.
-some new method
+some new method and git is a free software
